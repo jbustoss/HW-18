@@ -122,6 +122,10 @@ p.about-contact-info {
 .contact-info {
     color: white;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+}
+ul {
+    list-style-type: none;
 }
 p.mb-0 {
     color: white;
